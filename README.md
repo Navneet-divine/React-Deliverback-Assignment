@@ -140,27 +140,3 @@ npm run build
 Creates an optimized production bundle in the `dist/` directory.
 
 ---
-
-## 📤 Pushing to GitHub
-
-To push this codebase to your GitHub repository:
-
-```bash
-# 1. Initialize git (if not already initialized)
-git init
-
-# 2. Stage all project files
-git add .
-
-# 3. Commit the changes
-git commit -m "feat: complete WhiteElephantHQ gift directory, rules & party companion"
-
-# 4. Set the default branch to main
-git branch -M main
-
-# 5. Connect your remote repository
-git remote add origin https://github.com/Navneet-divine/React-Deliverback-Assignment.git
-
-# 6. Push to main
-git push -u origin main
-```
